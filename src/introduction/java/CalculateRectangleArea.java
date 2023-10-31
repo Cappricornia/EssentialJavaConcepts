@@ -14,7 +14,7 @@ public class CalculateRectangleArea {
         double area = length * width;
         String formattedArea = String.format("%.2f", area);
 
-        System.out.println("The area of the rectangle is: " + formattedArea + ".");
+        System.out.println("The area of the rectangle is: " + formattedArea);
 
         scanner.close();
     }
