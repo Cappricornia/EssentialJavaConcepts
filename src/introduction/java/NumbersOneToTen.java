@@ -1,4 +1,4 @@
-package intro.java;
+package introduction.java;
 
 public class NumbersOneToTen {
     public static void numbersOneToTen (int number) {
