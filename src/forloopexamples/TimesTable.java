@@ -1,5 +1,4 @@
 package forloopexamples;
-
 import java.util.Scanner;
 
 public class TimesTable {
@@ -23,7 +22,6 @@ public class TimesTable {
                 scanner.next(); // Clear invalid input
             }
         }
-
         System.out.println("Here is the times table for " + number + ":");
 
         for (int i = 1; i <= 10; i++) {
