@@ -1,7 +1,7 @@
 package forloopexamples;
 import java.util.Scanner;
 
-public class maxNumber {
+public class MaxNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean isValidNumber = false;
