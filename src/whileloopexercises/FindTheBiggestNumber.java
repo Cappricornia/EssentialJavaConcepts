@@ -27,6 +27,7 @@ public class FindTheBiggestNumber {
             String resultMsg = "The biggest number is " + maxValue;
             System.out.println(resultMsg);
         } else {
+            // if the user enters stop before any number
             System.out.println("No valid number entered.");
         }
 
