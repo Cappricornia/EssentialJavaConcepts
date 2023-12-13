@@ -1,5 +1,4 @@
 package whileloopexercises;
-
 import java.util.Random;
 import java.util.Scanner;
 
@@ -17,7 +16,7 @@ public class GuessTheNumber {
     }
 
 
-    static void guessNumber(int secretNumber) {
+    public static void guessNumber(int secretNumber) {
         Scanner scanner = new Scanner(System.in);
         int userGuess;
 
@@ -40,6 +39,5 @@ public class GuessTheNumber {
 
         scanner.close();
     }
-
 }
 
