@@ -36,6 +36,6 @@
 
 ## Utilising Nested Loops in Java: 🪹🪢🪢
 
- - Solving Complex Problems with Nested Loop Structures
+ - Solving Problems with Nested Loop Structures
  - Effective Combination of for and while Loops
  - Demonstrating Examples of Nested Loop Patterns
